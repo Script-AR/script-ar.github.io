@@ -40,13 +40,23 @@ ul{
     margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
     padding-left: 60px; /*убираем левый отступ, равный 40px*/
     display: flex;
+    background:#ef631c;
 }
 li{
     margin-left: 30px;
     margin-right: 30px;
     margin-top: 15px;
     margin-bottom: 15px
+    color:#efcdaf;
 }
+li:hover{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px
+    color:#ffffff;
+}
+
 a{
     text-decoration: none;
 }
