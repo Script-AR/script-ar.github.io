@@ -41,6 +41,8 @@ ul{
     padding-left: 60px; /*убираем левый отступ, равный 40px*/
     display: flex;
     background:#ef631c;
+    border:0px solid #ef631c;
+    border-radius: 5px;
 }
 li{
     margin-left: 30px;
