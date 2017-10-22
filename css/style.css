@@ -1,0 +1,30 @@
+@font-face{
+    font-family:Avanti;
+    src:url(script-ar.github.io/avanti.ttf);
+}
+body {font-family:'Avanti',Arial
+}
+button {margin:15px;
+background-color:#ffffff;
+border:1px solid #ef631c;
+border-radius:5px;
+width:220px;
+height:90px;
+color:#ef631c;
+font-size:19px;
+font-family:'Avanti';
+
+}
+button:hover {margin:15px;
+background-color:#ef631c;
+border:0px;
+border-radius:5px;
+width:220px;
+height:90px;
+color:#ffffff;
+font-size:19px;
+font-famili:'Avanti';
+}
+.text{
+  font-size: 16px;
+}
