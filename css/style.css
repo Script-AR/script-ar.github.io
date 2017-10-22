@@ -25,8 +25,7 @@ font-famili:'Avanti';
 .text{
   font-size: 16px;
 }
-.pct{
-    border:1px;
-    border-color:#ef631c;
-    border-radius:4px;
+img{
+    border:1px solid #ef631c;
+    border-radius: 4px;
 }
