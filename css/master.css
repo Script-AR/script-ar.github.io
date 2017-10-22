@@ -35,7 +35,9 @@ img{
 .red{
     color:#e8431e;
 }
-ul.menu{
-    padding-top: 6px;
-    padding-left: 130px;
+ul{
+    list-style: none; /*убираем маркеры списка*/
+    margin: 0; /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0; /*убираем левый отступ, равный 40px*/
+    display: flex;
 }
