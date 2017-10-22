@@ -35,3 +35,7 @@ img{
 .red{
     color:#e8431e;
 }
+ul.menu{
+    padding-top: 6px;
+    padding-left: 130px;
+}
