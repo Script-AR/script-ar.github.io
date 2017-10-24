@@ -22,18 +22,9 @@ color:#ffffff;
 font-size:19px;
 font-famili:'Avanti';
 }
-.text{
-  font-size: 16px;
-}
 img{
     border:1px solid #ef631c;
     border-radius: 7px;
-}
-.green{
-    color:#89d64f;
-}
-.red{
-    color:#e8431e;
 }
 ul{
     list-style: none; /*убираем маркеры списка*/
@@ -65,4 +56,14 @@ li a{
 li a:hover{
     text-decoration: none;
     color:#ffffff;
+}
+
+.text{
+  font-size: 16px;
+}
+.green{
+    color:#00880d;
+}
+.red{
+    color:#dc2800;
 }
